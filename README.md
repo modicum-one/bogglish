@@ -1,5 +1,9 @@
 # boggle
+A boggle simulator (good for video call games).
 
+Uses [Vue CLI](https://cli.vuejs.org/) 
+
+[Demo](httpd://modicum.one/bogglish/)
 ## Project setup
 ```
 npm install
